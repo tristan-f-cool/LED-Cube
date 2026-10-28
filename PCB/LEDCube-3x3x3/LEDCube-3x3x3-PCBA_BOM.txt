@@ -1,0 +1,58 @@
+Partlist exported from T:/Eagle_/LEDCube-3x3x3/LEDCube-3x3x3.sch at 5/19/2026 6:13 PM
+
+Part   Value          Device                          Package                  Description                          MF MPN OC_FARNELL OC_NEWARK POPULARITY PROD_ID     SF_SKU    VALUE
+A1                    MA06-1                          MA06-1                   PIN HEADER                                  unknown    unknown   28                                    
+C5     22pF           22PF-PTH-2.54MM-200V-5%         CAP-PTH-2.54             22pF ceramic capacitors                                                     CAP-09128             22pF 
+C6     22pF           22PF-PTH-2.54MM-200V-5%         CAP-PTH-2.54             22pF ceramic capacitors                                                     CAP-09128             22pF 
+C7                    CPOL-USE1.8-4                   E1,8-4                   POLARIZED CAPACITOR, American symbol                                                                   
+C8                    CPOL-USE1.8-4                   E1,8-4                   POLARIZED CAPACITOR, American symbol                                                                   
+CC1                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+CC2                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+CC3                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+CC4                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+CC5                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+CC6                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+CC7                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+CC8                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+CC9                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+D2     1N4004         1N4004                          DO41-10                  DIODE                                                                                                  
+D3                    PINHD-1X5                       1X05                     PIN HEADER                                                       69                                    
+DD1                   PINHD-1X4                       1X04                     PIN HEADER                                                       91                                    
+DDD1                  PINHD-1X5                       1X05                     PIN HEADER                                                       69                                    
+FT1                   PINHD-1X6                       1X06                     PIN HEADER                                                       79                                    
+H1     STAND-OFFTIGHT STAND-OFFTIGHT                  STAND-OFF-TIGHT          Stand Off                                                                                              
+H2     STAND-OFFTIGHT STAND-OFFTIGHT                  STAND-OFF-TIGHT          Stand Off                                                                                              
+H3     STAND-OFFTIGHT STAND-OFFTIGHT                  STAND-OFF-TIGHT          Stand Off                                                                                              
+H4     STAND-OFFTIGHT STAND-OFFTIGHT                  STAND-OFF-TIGHT          Stand Off                                                                                              
+H7     STAND-OFFTIGHT STAND-OFFTIGHT                  STAND-OFF-TIGHT          Stand Off                                                                                              
+H8     STAND-OFFTIGHT STAND-OFFTIGHT                  STAND-OFF-TIGHT          Stand Off                                                                                              
+IC2    7805           7806DT                          TO252                    Positive VOLTAGE REGULATOR                                       18                                    
+ICSP1                 PINHD-2X3                       2X03                     PIN HEADER                                                       62                                    
+LED2                  LEDCHIP-LED0805                 CHIP-LED0805             LED                                                              68                                    
+LL1                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+LL2                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+LL3                   PINHD-1X1                       1X01                     PIN HEADER                                                       64                                    
+PWR1                  PINHD-1X2                       1X02                     PIN HEADER                                                       98                                    
+Q2     16MHz          CRYSTALHC49S                    HC49/S                   CRYSTAL                                     1667008    unknown   49                                    
+R1     220            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R2     220            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R3     220            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R4     220            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R5     220            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R6     220            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R7     220            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R8     220            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R9     220            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R10    22K            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R11    22K            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R12    22K            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R15    10K            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+R16    220            R-US_R0805                      R0805                    RESISTOR, American symbol                                                                              
+RESET1                MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST                                         SWCH-08441 COM-00097      
+S1                    EG1218S                         EG1218                   SLIDING SWITCH                                                                                         
+T1     2N3904         2N3904                          TO92                     NPN TRANSISTOR                                                   27                                    
+T2     2N3904         2N3904                          TO92                     NPN TRANSISTOR                                                   27                                    
+T3     2N3904         2N3904                          TO92                     NPN TRANSISTOR                                                   27                                    
+U2     328P           ATMEGA328P_PDIP                 DIP28                    Atmel 328P                                                                  IC-09136              328P 
+VIN1                  DCBARRELPTH                     DCJACK_2MM_PTH           2.0mm DC Barrel Jack             
+LED    BLUE	      3mm diffused thru-hole                                                                      
